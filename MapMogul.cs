@@ -7,8 +7,6 @@ using TMPro;
 using UnityEngine.UI;
 using HarmonyLib;
 using System.IO;
-using System.Linq;
-using System;
 
 namespace MapMogul
 {
